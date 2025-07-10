@@ -1,3 +1,4 @@
+[![Build Status](http://ec2-44-247-205-20.us-west-2.compute.amazonaws.com/buildStatus/icon?job=build-hugo)](http://ec2-44-252-166-15.us-west-2.compute.amazonaws.com/job/build-hugo/)
 # hugo-project
 
 # Improve a Docker agent pipeline
